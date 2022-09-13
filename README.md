@@ -21,7 +21,7 @@ Não consegui finalizar o front-end 100%, devido a falta de tempo mesmo, recebi 
 Decidi criar o projeto com o VITE já que atualmente vem ganhando grande espaço no mercado devido ao ES Build, e realmente,  é incrível. Como era um desafio me desafiei também a sair da zona de conforto do Styled Components e estilizar utilizando Tailwind já que é uma ferramenta utilizada dentro da Suflex. Entretanto o projeto comporta uma estrutura básica de pastas e componentes bem conhecida no mercado, de fácil entendimento e manutenção. Gostria de ter implementando um esquema de temas para deixar de utilizar hex code ou rgba, acabei dando prioridade a outras features.
 
 # Features finalizada
-- Login
+- Login (Com Contexto)
 - Cadastro
 - Todo o sistema de filtro 
 - Favoritos Local (apenas local, faltou integrar com o back)
