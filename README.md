@@ -23,4 +23,5 @@ Decidi criar o projeto com o VITE já que atualmente vem ganhando grande espaço
 # Features finalizada
 - Login
 - Cadastro
+- Todo o sistema de filtro 
 - Favoritos Local (apenas local, faltou integrar com o back)
